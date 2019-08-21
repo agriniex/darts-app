@@ -2,7 +2,7 @@ import React from 'react';
 import { BrowserRouter as Router } from "react-router-dom";
 import Navigation from './Navigation';
 import AppRouter from './routes';
-import './App.css';
+import './App.scss';
 import 'react-table/react-table.css'
 
 function App() {
